@@ -1,4 +1,21 @@
-# Data Science intro 
+# Data Science for Beginners 
+
+Data Science is a domain that comprises many sub-domains such as artificial intelligence, machine learning, statistics, data visualization, and analytics as well as provides practical examples and exercises to help you apply these concepts in the real world. Over the past few years, there has been tremendous demand for data scientists. To improve business efficiency it becomes important to analyze the data.
+
+In this data science tutorial, we will provide a comprehensive overview of the core concepts, tools, and techniques used in the field of data science.
+
+Data Science is a field that involves extracting insights and knowledge from data using various techniques and tools. If you are a beginner in Data Science, here are some steps you can follow to get started:
+
+- [**Learn Programming: Programming**]() is a fundamental skill for Data Science. Python is the most commonly used programming language in Data Science, and it has several libraries that are useful for Data Science, such as NumPy, Pandas, and Scikit-learn. You can start by learning the basics of Python programming.
+- [**Learn Statistics: Statistics**]()
+ is the foundation of Data Science. Understanding statistical concepts such as mean, median, variance, and standard deviation is crucial for working with data. You can start by learning the basics of statistics.
+- [**Learn Data Visualization:**]() Data visualization is an essential skill for Data Science. It helps to understand patterns and trends in data. There are several libraries in Python that are useful for Data Visualization, such as Matplotlib and Seaborn.
+Learn Machine Learning: Machine learning is the core of Data Science. It involves building models that can learn from data and make predictions. There are several types of machine learning algorithms, such as supervised learning, unsupervised learning, and reinforcement learning. You can start by learning the basics of machine learning.
+- [**Practice with Projects**](): 
+Practice is essential for learning Data Science. You can start by working on small projects such as data cleaning, data analysis, and machine learning models. Kaggle is a platform where you can find data science projects and competitions to practice your skills.
+- [**Learn from the Community: The Data Science community is very active, and there are several resources available to learn from. You can join online communities such as Reddit, LinkedIn, or Twitter. You can also attend local Data Science meetups and events.
+- [**Continuously Learn**]():
+Data Science is a rapidly evolving field, and new techniques and tools are constantly emerging. Therefore, it’s essential to keep learning and stay updated with the latest trends and developments in Data Science.
 
 **What is the Developer Circles Training Courses?**
 
