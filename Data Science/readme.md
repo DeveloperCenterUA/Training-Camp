@@ -13,7 +13,7 @@ Data Science is a field that involves extracting insights and knowledge from dat
 Learn Machine Learning: Machine learning is the core of Data Science. It involves building models that can learn from data and make predictions. There are several types of machine learning algorithms, such as supervised learning, unsupervised learning, and reinforcement learning. You can start by learning the basics of machine learning.
 - [**Practice with Projects**](): 
 Practice is essential for learning Data Science. You can start by working on small projects such as data cleaning, data analysis, and machine learning models. Kaggle is a platform where you can find data science projects and competitions to practice your skills.
-- [**Learn from the Community: The Data Science community is very active, and there are several resources available to learn from. You can join online communities such as Reddit, LinkedIn, or Twitter. You can also attend local Data Science meetups and events.
+- [**Learn from the Community**](): The Data Science community is very active, and there are several resources available to learn from. You can join online communities such as Reddit, LinkedIn, or Twitter. You can also attend local Data Science meetups and events.
 - [**Continuously Learn**]():
 Data Science is a rapidly evolving field, and new techniques and tools are constantly emerging. Therefore, it’s essential to keep learning and stay updated with the latest trends and developments in Data Science.
 
